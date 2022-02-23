@@ -2,10 +2,10 @@ Olá, tudo bem? Eu me chamo Higor e esse é o repositório para minhas aulas ass
 
 Curso: Python Mundo 1
 
-Links:
+Links: <br />
 Playlist do curso no Youtube - https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
-Site do Curso em Vídeo (para assistir o curso e tirar o certificado ao termino) - https://www.cursoemvideo.com/curso/python-3-mundo-1/
+Site do Curso em Vídeo (para assistir o curso e tirar o certificado ao término) - https://www.cursoemvideo.com/curso/python-3-mundo-1/
 
 
 Índice dos arquivos:

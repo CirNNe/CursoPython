@@ -26,7 +26,7 @@ a07e13    - Reajuste salarial; <br />
 a07e14    - Conversor de temperaturas; <br />
 a07e15    - Aluguel de carros; <br />
 Aula 08 <br />
-aula08    - Utilizando módulos; <br />
+a08    - Utilizando módulos; <br />
 a08e16    - Quebrando um número; <br />
 a08e17    - Catetos e hipotenusa; <br />
 a08e19-20 - Sorteando um item na lista e uma ordem; <br />
@@ -38,7 +38,7 @@ a09e25    - Procurando uma string dentro de outra; <br />
 a09e26    - Primeira e última ocorrência de uma string; <br />
 a09e27    - Primeiro e último nome de uma pessoa; <br />
 Aula 10 <br />
-aula10    - Condições; <br />
+a10    - Condições; <br />
 a10e28    - Jogo da adivinhação; <br />
 a10e29    - Radar eletr}onico; <br />
 a10e30    - Par ou ímpar; <br />

@@ -30,7 +30,7 @@ a09e27    - Primeiro e último nome de uma pessoa; <br />
 Aula 10 <br />
 a10    - Condições; <br />
 a10e28    - Jogo da adivinhação; <br />
-a10e29    - Radar eletr}onico; <br />
+a10e29    - Radar eletrônico; <br />
 a10e30    - Par ou ímpar; <br />
 a10e31    - Custo da viagem; <br />
 a10e32    - Ano bissexto; <br />

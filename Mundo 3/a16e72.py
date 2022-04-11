@@ -5,4 +5,11 @@ while True:
     while usu not in range(0, 21):
         usu = int(input('Valor inválido, digite novamente: '))
     print(f'Você digitou o número {tupla[usu]}')
-    break
+    continuar = ' '
+    continuar = str(input('Deseja continuar? [S/N]: ')).strip().upper()
+    while continuar not in 'SN':
+        continuar = str(input('Comando inválido, digite S ou N: ')).strip().upper()
+    if continuar == 'N':
+        break
+
+# Descobrir como usar o break para finalizar todo o programa estando dentro de outro While

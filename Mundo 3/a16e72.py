@@ -11,5 +11,3 @@ while True:
         continuar = str(input('Comando inválido, digite S ou N: ')).strip().upper()
     if continuar == 'N':
         break
-
-# Descobrir como usar o break para finalizar todo o programa estando dentro de outro While
